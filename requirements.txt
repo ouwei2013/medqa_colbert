@@ -1,0 +1,11 @@
+bitarray
+datasets
+gitpython
+ninja
+scipy
+spacy
+tqdm
+transformers
+ujson
+faiss-cpu
+torch
