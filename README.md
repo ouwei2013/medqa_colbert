@@ -29,3 +29,11 @@
     [query_1_id, doc_1_id, doc_3_id] <br>
     [...       ...    ....         ] <br>
 
+#### After preparing the data, run python colbert_train.py
+#### 准备好数据后，运行 python colbert_train.py
+
+#### After the training process, run python colbert_index.py to create search index 
+#### 训练完后，运行 python colbert_index.py构建索引
+
+#### After indexing run python colbert_search.py to test the model
+#### 构建索引后再运行 python colbert_search.py 测试
